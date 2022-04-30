@@ -1,9 +1,11 @@
 ## Hello there!
-Welcome to my GitHub page, where I sometimes do interesting things!
+
+Welcome to my GitHub page, where I sometimes do interesting things! :wave:
 
 I am a:
-* Student: Second year Math of Computation major @ UCLA
-* Learner: Experimenting with a few languages, mostly C++ and Python
+
+* Student: Second year CS major @ UCLA
+* Learner: Experimenting with a few languages, mostly C++ and Lua
 * Enthusiast: [Neovim](https://github.com/neovim/neovim) nerd ([config
   here](https://github.com/kylechui/config.nvim))
 

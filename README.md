@@ -1,11 +1,13 @@
 ## Hello there!
 
-Welcome to my GitHub page, where I sometimes do interesting things! :wave:
+Welcome to my GitHub page, where I *sometimes* do interesting things! :wave:
 
 I am a:
 
-* Student: Second year CS major @ UCLA
-* Learner: Experimenting with a few languages, mostly C++ and Lua
+* Student: Incoming third year CS major @ UCLA
+* Learner: Experimenting with a few languages, mostly Lua and C++
+* Open Source Developer: I'm currently the creator/maintainer for
+  [nvim-surround](https://github.com/kylechui/nvim-surround)
 * Enthusiast: [Neovim](https://github.com/neovim/neovim) nerd ([config
   here](https://github.com/kylechui/config.nvim))
 

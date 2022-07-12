@@ -11,6 +11,8 @@ I am a:
 * Enthusiast: [Neovim](https://github.com/neovim/neovim) nerd ([config
   here](https://github.com/kylechui/config.nvim))
 
+Profile picture credit: [Ashley Lu](https://github.com/ashley-lu)
+
 <p align="center">
   <img
   src="https://github-readme-stats.vercel.app/api?username=kylechui&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" width="800">

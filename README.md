@@ -1,14 +1,15 @@
 ## Hello there!
 
-Welcome to my GitHub page, where I *sometimes* do interesting things! :wave:
+Welcome to my GitHub page, where I _sometimes_ do interesting things! :wave:
 
 I am a:
 
-* Student: Incoming third year CS major @ UCLA
-* Learner: Experimenting with a few languages, mostly Lua and C++
-* Open Source Developer: I'm currently the creator/maintainer for
+- Student: Third year CS major @ UCLA
+- Learner: Experimenting with a few languages, mostly Lua, Python, and C++
+  - I'm also currently learning more about quantum programming :rocket:
+- Open Source Developer: I'm currently the creator/maintainer for
   [nvim-surround](https://github.com/kylechui/nvim-surround)
-* Enthusiast: [Neovim](https://github.com/neovim/neovim) nerd ([config
+- Enthusiast: [Neovim](https://github.com/neovim/neovim) nerd ([config
   here](https://github.com/kylechui/config.nvim))
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G5DTLG5)

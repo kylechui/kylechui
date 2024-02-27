@@ -4,14 +4,17 @@ Welcome to my GitHub page, where I _sometimes_ do interesting things! :wave:
 
 I am a:
 
-- Student: Third year CS major @ UCLA
-- Learner: Experimenting with a few languages, mostly OCaml, Haskell, Python
+- Student: Fourth year CS major @ UCLA
+- Learner:
+  - Picking up some basic Linux fundamentals (by endlessly tinkering with my
+    [Nix config](https://github.com/kylechui/dotfiles))
   - I've recently become interested in writing programs that are "less wrong",
-    i.e. type systems, functional programming, formal methods, etc.
+    i.e. type systems, functional programming, reproducible systems, etc.
 - Open Source Developer: I'm currently the creator/maintainer for
-  [nvim-surround](https://github.com/kylechui/nvim-surround)
-- Enthusiast: [Neovim](https://github.com/neovim/neovim) nerd ([config
-  here](https://github.com/kylechui/config.nvim))
+  [nvim-surround](https://github.com/kylechui/nvim-surround), and rarely
+  contribute to [nixpkgs](https://github.com/NixOS/nixpkgs)
+- Enthusiast: [Neovim](https://github.com/neovim/neovim) nerd
+  ([config here](https://github.com/kylechui/config.nvim))
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G5DTLG5)
 
